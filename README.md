@@ -2,8 +2,8 @@
 
 Submissions thus far:
 
-* char-based ConvNet
-* word-based ConvNet
+* char-based ConvNet (score: 0.057)
+* word-based ConvNet (score: 0.080)
 
 ## External deps
 * Keras
